@@ -7,7 +7,7 @@ This project is a compact DC-DC buck converter designed to step down a 24V input
 | **Name** | **Value**   | **Footprint** | **Description**                |
 |----------|-------------|---------------|-------------------------------|
 | IC1      | -           | -             | TPS5450 buck converter        |
-| L1       | 10uh           | SMD,10.1x11.6mm      | SMD Power Inductors             |
+| L1       | 10uH           | SMD,10.1x11.6mm      | SMD Power Inductors             |
 | Cin1     | 10uF 50V    | 1210          | X7R Ceramic Capacitor         |
 | Cin2     | 10uF 50V    | 1210          | X7R Ceramic Capacitor         |
 | Cboot    | 10nF 50V    | 0603          | X7R Ceramic Capacitor         |
